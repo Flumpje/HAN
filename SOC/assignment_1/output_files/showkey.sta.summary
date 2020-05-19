@@ -1,0 +1,41 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'kbclock'
+Slack : -3.432
+TNS   : -118.587
+
+Type  : Slow 1200mV 85C Model Hold 'kbclock'
+Slack : 0.348
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'kbclock'
+Slack : -3.000
+TNS   : -71.747
+
+Type  : Slow 1200mV 0C Model Setup 'kbclock'
+Slack : -3.024
+TNS   : -105.123
+
+Type  : Slow 1200mV 0C Model Hold 'kbclock'
+Slack : 0.311
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'kbclock'
+Slack : -3.000
+TNS   : -71.747
+
+Type  : Fast 1200mV 0C Model Setup 'kbclock'
+Slack : -0.859
+TNS   : -21.684
+
+Type  : Fast 1200mV 0C Model Hold 'kbclock'
+Slack : 0.151
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'kbclock'
+Slack : -3.000
+TNS   : -54.517
+
+------------------------------------------------------------

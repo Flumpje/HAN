@@ -1,0 +1,90 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/HAN/EHE/SOC/han-soc-assignment-vhdl-piano-Willem/assignment_1/simulation/modelsim
+Eshowkey
+Z1 w1589310608
+Z2 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z5 8C:/HAN/EHE/SOC/han-soc-assignment-vhdl-piano-Willem/assignment_1/showkey.vhd
+Z6 FC:/HAN/EHE/SOC/han-soc-assignment-vhdl-piano-Willem/assignment_1/showkey.vhd
+l0
+L46
+Vzb3:?CNZEZoTgSS`Docb30
+!s100 b3TFX<IQL@_T6i0oW^ZSo3
+Z7 OV;C;10.5b;63
+31
+Z8 !s110 1589310957
+!i10b 1
+Z9 !s108 1589310957.000000
+Z10 !s90 -reportprogress|300|-93|-work|work|C:/HAN/EHE/SOC/han-soc-assignment-vhdl-piano-Willem/assignment_1/showkey.vhd|
+Z11 !s107 C:/HAN/EHE/SOC/han-soc-assignment-vhdl-piano-Willem/assignment_1/showkey.vhd|
+!i113 1
+Z12 o-93 -work work
+Z13 tExplicit 1 CvgOpt 0
+Alogicfunction
+R2
+R3
+R4
+DEx4 work 7 showkey 0 22 zb3:?CNZEZoTgSS`Docb30
+l60
+L58
+V>jV7z9[XIBZ>UzI5kh0:_0
+!s100 []bn?AX5haAaN]Q`fa5H^1
+R7
+31
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Etb_showkey
+Z14 w1589307690
+R3
+R4
+R0
+Z15 8C:/HAN/EHE/SOC/han-soc-assignment-vhdl-piano-Willem/assignment_1/tb_showkey.vhd
+Z16 FC:/HAN/EHE/SOC/han-soc-assignment-vhdl-piano-Willem/assignment_1/tb_showkey.vhd
+l0
+L11
+VcjYi3FGOGZ:PXmhKae_Nn1
+!s100 @CkN16dz2jC`hhOF;H_[a1
+R7
+31
+Z17 !s110 1589311027
+!i10b 1
+Z18 !s108 1589311027.000000
+Z19 !s90 -reportprogress|300|-93|-work|work|C:/HAN/EHE/SOC/han-soc-assignment-vhdl-piano-Willem/assignment_1/tb_showkey.vhd|
+Z20 !s107 C:/HAN/EHE/SOC/han-soc-assignment-vhdl-piano-Willem/assignment_1/tb_showkey.vhd|
+!i113 1
+R12
+R13
+Ashowkey_arch
+R3
+R4
+Z21 DEx4 work 10 tb_showkey 0 22 cjYi3FGOGZ:PXmhKae_Nn1
+l65
+L15
+Z22 VDPT;B_`UE`j?_Lk=A3^AK3
+Z23 !s100 non:hn;SW>WH65;Z[`1PN0
+R7
+31
+R17
+!i10b 1
+R18
+R19
+R20
+!i113 1
+R12
+R13
